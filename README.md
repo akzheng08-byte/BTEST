@@ -1,0 +1,2 @@
+# BTEST
+solidity test
